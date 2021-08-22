@@ -1,6 +1,6 @@
 # Hi, I’m Elicia 👋🏽
 
-I'm currently training as a Full Stack Developer at futureproof.
+I'm currently training as a Full Stack Developer at futureproof 👩🏽‍💻
 
 ## Technologies and Tools 🛠️
 
