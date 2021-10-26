@@ -22,4 +22,4 @@ I'm currently training as a Full Stack Developer at futureproof 👩🏽‍💻
   
 ## GitHub Stats 📊
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ELOBO5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ELOBO5&show_icons=true&theme=radical"/>
