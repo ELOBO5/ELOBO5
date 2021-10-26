@@ -1,6 +1,6 @@
 # Hi there, I’m Elicia 👋🏽
 
-I'm currently training as a Full Stack Developer at futureproof 👩🏽‍💻
+I'm a recent graduate of the Full Stack Developer training course at futureproof 👩🏽‍💻
 
 ## Technologies and Tools 🛠️
 
@@ -22,9 +22,11 @@ I'm currently training as a Full Stack Developer at futureproof 👩🏽‍💻
   
 ## GitHub Stats 📊
 
+<div align="center">
 <a href="https://github.com/ELOBO5/github-readme-stats">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ELOBO5&show_icons=true&theme=radical"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=ELOBO5&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/ELOBO5">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELOBO5&layout=compact&theme=radical"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELOBO5&layout=compact&theme=radical"/>
 </a>
+ </div>
