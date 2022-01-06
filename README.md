@@ -1,6 +1,6 @@
 # Hi there, I’m Elicia 👋🏽
 
-I'm a recent graduate of the Full Stack Developer training course at futureproof 👩🏽‍💻
+I completed the 3 month Full Stack Developer Bootcamp at futureproof in October 2021 and am currently working as an Applications Support Analyst (onsite at Leidos) 👩🏽‍💻
 
 ## Technologies and Tools 🛠️
 
