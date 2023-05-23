@@ -1,6 +1,6 @@
 # Hi there, I’m Elicia 👋🏽
 
-I completed the 3 month Full Stack Developer Bootcamp at futureproof in October 2021 and am currently working as an Applications Support Analyst (onsite at Leidos) 👩🏽‍💻
+Graduate of the 3 month Full Stack Developer Bootcamp at futureproof in October 2021. 1 year of work experience as an Applications Support Analyst (onsite at Leidos) 👩🏽‍💻
 
 ## Technologies and Tools 🛠️
 
